@@ -36,7 +36,8 @@ public class JavaClass {
     String num="7971200899";
     String gender="Female";
     String passworrd="1234assd";
-     
+    String passworrdghlk="1234assd";
+
     Random rand= new Random();
     int randomID= rand.nextInt(20);
   //  System.out.println(firstName+lastName+randomID+domain);
